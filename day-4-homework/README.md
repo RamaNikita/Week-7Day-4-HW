@@ -1,4 +1,4 @@
-# [Netlify Live Link]()
+# [Netlify Live Link](https://euphonious-tiramisu-9b0feb.netlify.app/)
 
 # [Github pages Live Link](https://ramanikita.github.io/Week-7Day-4-HW/)
 
