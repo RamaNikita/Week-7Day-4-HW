@@ -55,14 +55,15 @@ html {
   }
   
   article p::first-letter {
-    float: left;
-    font-size: 6rem;
-    font-weight: 400;
+    /* float: left; */
+    initial-letter: 4;
+    font-size: 2rem;
+    /* font-weight: bold; */
     color: lightgray;
+    margin-right: .75em;
   }
   
   footer > span::before {
-    content: "\00A9";
     color: lightgray;
   }
   
